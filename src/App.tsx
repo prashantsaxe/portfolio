@@ -2,7 +2,7 @@
 
 import { useState, useEffect } from 'react'
 import { motion, AnimatePresence } from 'framer-motion'
-import { Github, Linkedin, Mail, Menu, X, ExternalLink, Database, Code2, Server } from 'lucide-react'
+import { Github, Linkedin, Mail, Menu, X, Database, Code2, Server } from 'lucide-react'
 import { Button } from "./components/ui/button"
 import { Card, CardContent, CardDescription, CardFooter, CardHeader, CardTitle } from "./components/ui/card"
 import { Avatar, AvatarFallback, AvatarImage } from "./components/ui/avatar"
